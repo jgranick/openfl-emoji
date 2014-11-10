@@ -1,3 +1,3 @@
 (function() {
-  Discourse.Dialect.registerEmoji('trout', '/plugins/discourse_emoji/images/trout-square.jpg');
+  Discourse.Dialect.registerEmoji('trout', '/plugins/discourse-emoji/images/trout-square.jpg');
 })();

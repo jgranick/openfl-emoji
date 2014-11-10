@@ -1,5 +1,5 @@
-# name: discourse_emoji
-# about: adds miscellaneous emoji
+# name: discourse-emoji
+# about: adds miscellaneous emoji to Discourse
 # version: 0.1
 # authors: Joshua Granick
 
