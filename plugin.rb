@@ -1,6 +1,6 @@
-# name: trout_emoji
-# about: adds an evil trout emoji
+# name: discourse_emoji
+# about: adds miscellaneous emoji
 # version: 0.1
-# authors: Robin Ward
+# authors: Joshua Granick
 
-register_asset "javascripts/trout-emoji.js", :server_side
+register_asset "javascripts/discourse-emoji.js", :server_side
