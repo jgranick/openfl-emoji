@@ -11,8 +11,8 @@
   Discourse.Dialect.registerEmoji('dosequis', '/plugins/openfl-emoji/images/dosequis.png');
   Discourse.Dialect.registerEmoji('drevil', '/plugins/openfl-emoji/images/drevil.png');
   Discourse.Dialect.registerEmoji('facepalm', '/plugins/openfl-emoji/images/facepalm.png');
-  Discourse.Dialect.registerEmoji('firstworldproblem', '/plugins/openfl-emoji/images/firstworldproblem.jpg');
-  Discourse.Dialect.registerEmoji('fwp', '/plugins/openfl-emoji/images/firstworldproblem.jpg');
+  Discourse.Dialect.registerEmoji('firstworldproblem', '/plugins/openfl-emoji/images/firstworldproblem.png');
+  Discourse.Dialect.registerEmoji('fwp', '/plugins/openfl-emoji/images/firstworldproblem.png');
   Discourse.Dialect.registerEmoji('fonzie', '/plugins/openfl-emoji/images/fonzie.png');
   Discourse.Dialect.registerEmoji('gangnamstyle', '/plugins/openfl-emoji/images/gangnamstyle.gif');
   Discourse.Dialect.registerEmoji('gates', '/plugins/openfl-emoji/images/gates.png');
