@@ -24,6 +24,7 @@
   Discourse.Dialect.registerEmoji('jobs', '/plugins/openfl-emoji/images/jobs.png');
   Discourse.Dialect.registerEmoji('lol', '/plugins/openfl-emoji/images/lol.png');
   Discourse.Dialect.registerEmoji('notsureif', '/plugins/openfl-emoji/images/notsureif.png');
+  Discourse.Dialect.registerEmoji('okay', '/plugins/openfl-emoji/images/okay.png');
   Discourse.Dialect.registerEmoji('orly', '/plugins/openfl-emoji/images/orly.png');
   Discourse.Dialect.registerEmoji('philosoraptor', '/plugins/openfl-emoji/images/philosoraptor.png');
   Discourse.Dialect.registerEmoji('pokerface', '/plugins/openfl-emoji/images/pokerface.png');
